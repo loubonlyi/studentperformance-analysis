@@ -20,4 +20,4 @@ Matplotlib
 Seaborn
 
 Usage:
-To run the analysis, execute the student_performance_analysis.py script. This will generate the dataset, calculate the correlation, and display the regression plot.Е
+To run the analysis, execute the student_performance_analysis.py script. This will generate the dataset, calculate the correlation, and display the regression plot.
